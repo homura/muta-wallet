@@ -1,4 +1,10 @@
-# Muta Wallet
+# Muta Wallet(Deprecate)
+
+## Deprecate
+
+Now Muta positioning into a blockchain framework, there is no builtin asset, so the wallet is not a requirement
+
+---
 
 A simple HD Wallet for [Muta](https://github.com/nervosnetwork/muta)
 
